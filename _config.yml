@@ -1,0 +1,48 @@
+title: "idtechannel"
+email: myarachma92@gmail.com
+timezone: UTC
+baseurl: "/"
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Muhammad Yusuf
+paginate: 30
+disqus: 'idtechannel'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+
+# Authors
+authors:
+  Muhammad Yusuf:
+    name: Muhammad Yusuf
+    display_name: Muhammad Yusuf
+    avatar: 'assets/images/yusuf.png'
+    email: myarachma92@gmail.com
+    web: https://www.youtube.com@idtechannel
+    twitter: https://twitter.com/idtechannel
+    description: "."
+
+# Social
+social:
+  instagram: https://www.instagram.com/idtechannel/
+  facebook: https://www.facebook.com/muhammadyusuf1992
+  twitter: https://twitter.com/idtechannel
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
