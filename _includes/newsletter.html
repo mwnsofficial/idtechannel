@@ -1,27 +1,28 @@
 <form action="https://getform.io/f/0edc9d45-f7d5-466f-b5be-26b15094b977" method="POST">
-    <label>Name</label>
-    <input type="text" name="name">
-    <label>Email</label>
-    <input type="email" name="email">
-    <label>Message</label>
-    <input type="text" name="message">
+    <label>Name</label><br>
+    <input type="text" name="name"><br>
+    <label>Email</label><br>
+    <input type="email" name="email"><br>
+    <label>Message</label><br>
+    <input type="text" name="message"><br><br>
     <!-- add hidden Honeypot input to prevent spams -->
     <input type="hidden" name="_gotcha" style="display:none !important">
     <!-- checkbox handle -->
-    <label>checkbox subscribe</label>
+    <label>check for subscribe</label>
     <input type="checkbox" name="subscribe" value="yes" checked>
-    <input type="hidden" name="subscribe" value="no">
+    <input type="hidden" name="subscribe" value="no"><br><br>
     <!-- radio button handle -->
-    <label>Male</label>
-    <input type="radio" name="gender" value="male" checked>
-    <label>Female</label>
-    <input type="radio" name="gender" value="female">
-    <label>Other</label>
-    <input type="radio" name="gender" value="other">
+    <input type="radio" name="gender" value="male" checked><label>Male</label><br>
+    <input type="radio" name="gender" value="female"><label>Female</label><br>
+    <input type="radio" name="gender" value="other"><label>Other</label><br><br>
     <!-- select field handle -->
+    <label>Select for subscribe years</label><br>
     <select name="work-experience">
-        <option value="one-year">0-1 years</option>
-        <option value="one-five-years">1-5 years</option>
-    </select>
+        <option value="one-year">1 years</option>
+        <option value="two-years">2 years</option>
+        <option value="tree-years">3 years</option>
+        <option value="four-years">4 years</option>
+        <option value="five-years">5 years</option>
+    </select><br><br>
     <button type="submit">Send</button>
 </form>
