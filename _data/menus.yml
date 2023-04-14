@@ -4,15 +4,17 @@ topmenu:
 - title: Home
   url: ""
 
+- title: Categories
+  url: "categories/"
+
 - title: About
   url: "about/"
 
 - title: Contact
   url: "contact/"
 
-- title: My Channel 
-  url: https://www.youtube.com/@idtechannel
-  class: "ml-2 btn btn-dark text-white px-3"
+- title: Files
+  url: ""
   external: true
 
 # Footer Menu
@@ -24,8 +26,12 @@ footermenu:
 - title: Privacy Policy
   url: "privacy-policy/"
 
+- title: Disclaimer
+  url: "disclaimer/"
+
 - title: Contact
   url: "contact/"
 
 - title: Files
-  url: "files"
+  url: ""
+  external: true
