@@ -5,8 +5,8 @@ Just customize your theme here.
 
 body {}
 .carousel-item {
-  height: 100vh;
-  min-height: 350px;
+  width: 100%
+  height: 240;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
