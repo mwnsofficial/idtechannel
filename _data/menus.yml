@@ -1,0 +1,31 @@
+# Top Menu
+topmenu:
+
+- title: Home
+  url: ""
+
+- title: About
+  url: "about/"
+
+- title: Contact
+  url: "contact/"
+
+- title: My Channel 
+  url: https://www.youtube.com/@idtechannel
+  class: "ml-2 btn btn-dark text-white px-3"
+  external: true
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: ""
+
+- title: Privacy Policy
+  url: "privacy-policy/"
+
+- title: Contact
+  url: "contact/"
+
+- title: Files
+  url: "files"
