@@ -15,4 +15,3 @@ As for this particular rendition of Charles Perrault’s classic tale, the text 
 An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
 
 The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
-
