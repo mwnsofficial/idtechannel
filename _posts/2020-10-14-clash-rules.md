@@ -32,7 +32,7 @@ rules:
   - MATCH,auto
 ```
 | Type | Matcher | Policies |
-| --- | --- | --- |
+| - | - | - |
 | DOMAIN-SUFFIX | google.com | auto |
 | DOMAIN-KEYWORD | google | auto |
 | DOMAIN | ad.com | REJECT |
