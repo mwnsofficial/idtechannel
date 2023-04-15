@@ -3,6 +3,7 @@ layout: post
 title: "Membuat website firebase dengan android"
 categories: [ blog ]
 image: assets/images/1.jpg
+youtubeid: NSXdt3yJgU8
 ---
 ### Persiapan
 
