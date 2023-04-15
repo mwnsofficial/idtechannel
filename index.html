@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: default
-background: '/img/bg-index.jpg'
 ---
 
 <!-- Home Intro
@@ -16,16 +15,6 @@ background: '/img/bg-index.jpg'
   {% for post in site.posts %}
       {% if post.featured == true %}
           <div class="col-md-4 mb-5">
-<!-- horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1794381705838564"
-     data-ad-slot="4999984509"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
           {% include postbox.html %}
           </div>
       {% endif %}
