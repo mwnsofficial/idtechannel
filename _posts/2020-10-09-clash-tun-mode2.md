@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Markdown Example"
-author: john
-categories: [ Jekyll, tutorial ]
+title: "Clash Tun Mode 2"
+author: Muhammad Yusuf
+categories: [ clash ]
 image: assets/images/6.jpg
 ---
 Perkenalkan mode Clash TUN 2
