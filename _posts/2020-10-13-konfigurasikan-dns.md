@@ -36,3 +36,25 @@ Di nameserver Anda harus dengan poin-poin berikut:
 - **Tidak lebih dari 4 Penyedia DNS di `nameserver`:** terlalu banyak penyedia DNS akan menyebabkan akses jaringan **latensi tinggi**.
 
 Untuk pengguna yang tinggal di Cina daratan, `nameserver` harus memilih penyedia DNS yang memiliki BGP di Cina daratan. Berikut ini adalah merekomendasikan:
+
+- AliDNS: UDP(`223.5.5.5 223.6.6.6`), DoH(`https://223.5.5.5/dns-query` `https://223.6.6.6/dns-query` `https://dns.alidns.com/dns-query` )
+
+- Tencent DNS: UDP (`119.29.29.29` `119.28.28.28`)
+
+- 114 DNS: UDP (`114.114.114.114` `114.114.115.115` )
+
+- DNS rubyfish: DoT (`tls://rubyfish.cn:853` `tls://dns.rubyfish.cn:853`) DoH
+  (`https://rubyfish.cn` `https://dns.rubyfish.cn`)
+
+Dalam fallback Anda harus dengan poin-poin berikut:
+
+- **Bersih dan bebas polusi:** Selalu kembalikan hasil DNS yang bersih dan andal
+
+- **Tidak lebih dari 4 Penyedia DNS dalam fallback:** terlalu banyak penyedia DNS akan menyebabkan akses jaringan **latensi tinggi**.
+
+Untuk pengguna yang tinggal di Cina daratan, **fallback** harus memilih penyedia DNS dengan hasil DNS yang bersih dan andal atau penyedia DNS luar negeri
+
+> **Kapan saya harus menggunakan DoH atau DoT?**
+> - Penyedia internet memiliki pembajakan DNS
+> - Penyedia internet menjatuhkan terlalu banyak paket UDP
+> - Orang yang sangat menghargai privasi
