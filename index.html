@@ -12,16 +12,6 @@ background: '/img/bg-index.jpg'
 <br>
 <!-- Featured
 ================================================== -->
-<!-- horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1794381705838564"
-     data-ad-slot="4999984509"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 <section class="row">
   {% for post in site.posts %}
       {% if post.featured == true %}
@@ -29,9 +19,6 @@ background: '/img/bg-index.jpg'
           {% include postbox.html %}
           </div>
       {% endif %}
-  {% endfor %}
-  </div>
-</section>
 <!-- horizontal -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -42,6 +29,9 @@ background: '/img/bg-index.jpg'
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  {% endfor %}
+  </div>
+</section>
 
 <!-- Posts List with Sidebar (except featured)
 ================================================== -->
