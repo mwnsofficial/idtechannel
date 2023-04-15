@@ -30,9 +30,9 @@ dns:
 
   fallback:
 ```
-- Di nameserver Anda harus dengan poin-poin berikut:
--- **Kecepatan dan stabilitas:** Server DNS membutuhkan stabilitas dan kecepatan, jadi gunakan server DNS yang secara geografis dekat dengannya jika memungkinkan.
--- **Dukungan edns-client-subnet:** Untuk situs web raksasa (seperti microsoft.com), server CDN biasanya tersedia di seluruh dunia dan server DNS yang didukung ECS dapat mengembalikan alamat IP server yang paling sesuai berdasarkan akses ke alamat IP sumber.
--- **Tidak lebih dari 4 Penyedia DNS di `nameserver`:** terlalu banyak penyedia DNS akan menyebabkan akses jaringan **latensi tinggi**.
+Di nameserver Anda harus dengan poin-poin berikut:
+- **Kecepatan dan stabilitas:** Server DNS membutuhkan stabilitas dan kecepatan, jadi gunakan server DNS yang secara geografis dekat dengannya jika memungkinkan.
+- **Dukungan edns-client-subnet:** Untuk situs web raksasa (seperti microsoft.com), server CDN biasanya tersedia di seluruh dunia dan server DNS yang didukung ECS dapat mengembalikan alamat IP server yang paling sesuai berdasarkan akses ke alamat IP sumber.
+- **Tidak lebih dari 4 Penyedia DNS di `nameserver`:** terlalu banyak penyedia DNS akan menyebabkan akses jaringan **latensi tinggi**.
 
 Untuk pengguna yang tinggal di Cina daratan, `nameserver` harus memilih penyedia DNS yang memiliki BGP di Cina daratan. Berikut ini adalah merekomendasikan:
