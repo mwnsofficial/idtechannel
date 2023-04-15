@@ -56,6 +56,9 @@ post_class: post-template
                 <div class="clearfix"></div>
 			</div>
 
+<!-- embed youtube -->
+{% include youtubeplayer.html id=page.youtubeid %}         
+
             <!-- Post Date -->
             <p>
             <small>
@@ -65,9 +68,7 @@ post_class: post-template
                 {% endif %}
                 </small>
             </p>
-<br> 
-{% include youtubeplayer.html id=page.youtubeid %}         
-<br>           
+           
             <!-- Prev/Next -->
             <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
               {% if page.previous.url %}
