@@ -269,7 +269,6 @@ textarea {
   <tr>
     <th class="tg-tmgx">Nama Paket</th>
     <th class="tg-tmgx">Harga</th>
-    <th class="tg-tmgx">Massa</th>
     <th class="tg-tmgx">Pendaftaran</th>
   </tr>
 </thead>
@@ -277,38 +276,32 @@ textarea {
   <tr>
     <td class="tg-7k2u"><span style="color:#FFF">Openwrt</span></td>
     <td class="tg-7k2u"><span style="color:#FFF">150.000,-</span></td>
-    <td class="tg-7k2u"><span style="color:#FFF"></span></td>
-    <td class="tg-7k2u"><span style="color:#FFF"></span></td>
+    <td class="tg-7k2u"><span style="color:#FFF"><button onclick="daftarlink('')" class="visit-link button1">DAFTAR</button></span></td>
   </tr>
   <tr>
     <td class="tg-7k2u"><span style="color:#FFF">Mikrotik</span></td>
     <td class="tg-7k2u"><span style="color:#FFF">200.000,-</span></td>
-    <td class="tg-7k2u"><span style="color:#FFF"></span></td>
-    <td class="tg-7k2u"><span style="color:#FFF"></span></td>
+    <td class="tg-7k2u"><span style="color:#FFF"><button onclick="daftarlink('')" class="visit-link button1">DAFTAR</button></span></td>
   </tr>
   <tr>
     <td class="tg-7k2u"><span style="color:#FFF">Clash</span></td>
     <td class="tg-7k2u"><span style="color:#FFF">150.000,-</span></td>
-    <td class="tg-7k2u"><span style="color:#FFF"></span></td>
-    <td class="tg-7k2u"><span style="color:#FFF"></span></td>
+    <td class="tg-7k2u"><span style="color:#FFF"><button onclick="daftarlink('')" class="visit-link button1">DAFTAR</button></span></td>
   </tr>
   <tr>
     <td class="tg-7k2u"><span style="color:#FFF">Antenna</span></td>
     <td class="tg-7k2u"><span style="color:#FFF">150.000,-</span></td>
-    <td class="tg-7k2u"><span style="color:#FFF"></span></td>
-    <td class="tg-7k2u"><span style="color:#FFF"></span></td>
+    <td class="tg-7k2u"><span style="color:#FFF"><button onclick="daftarlink('')" class="visit-link button1">DAFTAR</button></span></td>
   </tr>
   <tr>
     <td class="tg-7k2u"><span style="color:#FFF">Youtube</span></td>
     <td class="tg-7k2u"><span style="color:#FFF">200.000,-</span></td>
-    <td class="tg-7k2u"><span style="color:#FFF"></span></td>
-    <td class="tg-7k2u"><span style="color:#FFF"></span></td>
+    <td class="tg-7k2u"><span style="color:#FFF"><button onclick="daftarlink('')" class="visit-link button1">DAFTAR</button></span></td>
   </tr>
   <tr>
     <td class="tg-7k2u"><span style="color:#FFF">Blog</span></td>
     <td class="tg-7k2u"><span style="color:#FFF">200.000,-</span></td>
-    <td class="tg-7k2u"><span style="color:#FFF"></span></td>
-    <td class="tg-7k2u"><span style="color:#FFF"></span></td>
+    <td class="tg-7k2u"><span style="color:#FFF"><button onclick="daftarlink('')" class="visit-link button1">DAFTAR</button></span></td>
   </tr>
 </tbody>
 </table>
@@ -330,9 +323,9 @@ textarea {
 <center><span class='button1' id='daplong'>Please Wait...</span></center>
 <center><button id="download-safelink" onclick="gotolink('{{ page.safelinkku }}')" class="visit-link button1">Go to Link</button></center>
 <script>
-function gotolink (url) {location.href = url;
-
-}</script>
+function gotolink (url) {location.href = url;}
+function daftarlink (url) {location.href = url;}
+</script>
 <script>
 var currentURL=location.href; var str = currentURL;
 var linkDL = document.getElementById("download-safelink");
