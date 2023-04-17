@@ -31,7 +31,7 @@ layout: default
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <div class="text-center">
-{% if page.safelink %}<button class="btn bt-success hidden" disabled="" id="gotolink" onclick="gotolink('{% page.safelink %}')">Go to Link</button>{% endif %}
+<button class="btn bt-success hidden" disabled="" id="gotolink" onclick="gotolink('{% assign safelinku = site.safelinku[page.safelinku] %}')">Go to Link</button>
 <div style="display: inline-block; margin: auto;"></div></div> 
 <!-- Iklan Tengah 3 -->
 <ins class="adsbygoogle"
