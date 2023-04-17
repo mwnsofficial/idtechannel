@@ -1,0 +1,86 @@
+---
+layout: default
+---
+<div id="timer"></div>
+<div class="text-center">
+<button class="btn bt-success hidden" disabled="" id="getlink">Click 2x Continue Link</button>
+<div style="display: inline-block; margin: auto;">
+<!-- Iklan Atas -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1794381705838564"
+     data-ad-slot="9279811452"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>
+
+<!-- Artikel -->
+<section class="row">
+  {% for post in site.posts %}
+      {% if post.featured == true %}
+          <div class="col-md-4 mb-5">
+          {% include postbox.html %}
+          </div>
+      {% endif %}
+  {% endfor %}
+  </div>
+</section>
+
+<!-- Iklan Tengah 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1794381705838564"
+     data-ad-slot="9279811452"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class="text-center">
+<button class="btn bt-success hidden" disabled="" id="gotolink" onclick="gotolink('{% page.safelink %}')">Go to Link</button>
+<div style="display: inline-block; margin: auto;"></div></div> 
+<!-- Iklan Tengah 3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1794381705838564"
+     data-ad-slot="9279811452"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- Artikel -->
+<section class="row">
+  <div class="col-sm-8">
+    <div class="row">
+      {% for post in paginator.posts %}
+      {% unless post.featured == true %}
+      <div class="col-md-6 mb-5">
+        {% include postbox.html %}
+      </div>
+      {% endunless %}
+      {% endfor %}
+    </div>
+    <!-- Pagination -->
+    <div class="bottompagination">
+      <span class="navigation" role="navigation">
+          {% include pagination.html %}
+      </span>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    {% include sidebar.html %}
+  </div>
+</section>
+
+<script type='text/javascript'>
+//<![CDATA[ var setting = { exceptionurl : "mwns.my.id,google.com,facebook.com", path : "#?o=" }; //]]> </script>
+<script src='https://cdn.statically.io/gh/dulbjn/javascript/10b6b23f/safeplatinum.js'/>
+<script>
+    function gotolink (url) {
+        location.href = url;
+    }
+</script>
