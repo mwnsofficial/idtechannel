@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<!-- Artikel -->
+<section class="row">
 <div id="timer"></div>
 <div class="text-center">
 <button class="btn bt-success hidden" disabled="" id="getlink">Click 2x Continue Link</button>
@@ -17,8 +19,6 @@ layout: default
 </script>
 </div></div>
 
-<!-- Artikel -->
-<section class="row">
   {% for post in site.posts %}
       {% if post.featured == true %}
           <div class="col-md-4 mb-5">
@@ -27,7 +27,6 @@ layout: default
       {% endif %}
   {% endfor %}
   </div>
-</section>
 
 <!-- Iklan Tengah 2 -->
 <ins class="adsbygoogle"
@@ -52,6 +51,8 @@ layout: default
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</section>
+
 <!-- Artikel -->
 <section class="row">
   <div class="col-sm-8">
@@ -79,7 +80,7 @@ layout: default
 
 <script type='text/javascript'>
 //<![CDATA[ var setting = { exceptionurl : "mwns.my.id,google.com,facebook.com", path : "#?o=" }; //]]> </script>
-<script src='https://cdn.statically.io/gh/dulbjn/javascript/10b6b23f/safeplatinum.js'/>
+
 <script>
     function gotolink (url) {
         location.href = url;
