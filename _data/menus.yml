@@ -14,8 +14,7 @@ topmenu:
   url: "contact/"
 
 - title: Files
-  url: ""
-  external: true
+  url: "files/"
 
 # Footer Menu
 footermenu:
@@ -33,5 +32,4 @@ footermenu:
   url: "contact/"
 
 - title: Files
-  url: ""
-  external: true
+  url: "files/"
