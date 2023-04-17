@@ -40,6 +40,22 @@ social:
   facebook: https://www.facebook.com/muhammadyusuf1992
   twitter: https://twitter.com/idtechannel
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      comments: false
+  -
+    scope:
+      path: "posts"
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+
 # Plugins
 plugins: 
 - jekyll-paginate
