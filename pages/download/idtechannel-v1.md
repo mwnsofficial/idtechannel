@@ -2,5 +2,5 @@
 title: idtechannel-v1
 layout: safelink
 safelinkku: https://www.mwns.my.id
-folder: download
+permalink: /idtechannel-v1/
 ---
