@@ -70,7 +70,7 @@ permalink: "/files/"
     <td>18-4-2023</td>       
   </tr>
   <tr>
-    <td><a href="">Firmware</a></td>
+    <td><a href="/files-mikrotik/">Software</a></td>
     <td>Mikrotik</td>
     <td>V1</td>
     <td>None</td>
