@@ -3,12 +3,12 @@ layout: page
 title: Disclaimer
 permalink: /disclaimer/
 comments: false
+image: https://raw.githubusercontent.com/mwnsofficial/idtechannel/main/assets/images/logo.png
 ---
 
 <!-- start post -->
 
-<div class="separator" style="clear: both; text-align: center;"><img border="0" data-original-height="80" data-original-width="80" height="80" src="https://raw.githubusercontent.com/mwnsofficial/idtechannel/main/assets/images/logo.png" official.png" width="80" /></a></div><br>
-<p><b>Disclaimer untuk ID Tech Channel</b></p>
+<h3><b>Disclaimer untuk ID Tech Channel</b></h3>
 <p>Dengan menggunakan informasi di ID Tech Channel, Anda telah memahami dan setuju dengan segala ketentuannya.</p>
 <p>Semua informasi di blog <b>ID Tech Channel</b> merupakan informasi semata dan ditulis dengan sejujur-jujurnya. <b>ID Tech Channel</b> tidak bertanggung jawab atas kelengkapan dan ketepatan informasi tersebut.</p>
 <p>Konsekuensi dari aksi yang Anda lakukan berdasarkan informasi di <b>ID Tech Channel</b> Anda bukan tanggung jawab <b>ID Tech Channel</b>.</p>
