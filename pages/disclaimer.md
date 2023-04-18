@@ -7,7 +7,7 @@ comments: false
 
 <!-- start post -->
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/assets/images/logo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="80" data-original-width="80" height="80" src="/assets/images/logo.png" official.png" width="80" /></a></div><br>
+<div class="separator" style="clear: both; text-align: center;"><img border="0" data-original-height="80" data-original-width="80" height="80" src="https://raw.githubusercontent.com/mwnsofficial/idtechannel/main/assets/images/logo.png" official.png" width="80" /></a></div><br>
 <p><b>Disclaimer untuk ID Tech Channel</b></p>
 <p>Dengan menggunakan informasi di ID Tech Channel, Anda telah memahami dan setuju dengan segala ketentuannya.</p>
 <p>Semua informasi di blog <b>ID Tech Channel</b> merupakan informasi semata dan ditulis dengan sejujur-jujurnya. <b>ID Tech Channel</b> tidak bertanggung jawab atas kelengkapan dan ketepatan informasi tersebut.</p>
