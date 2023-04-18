@@ -3,7 +3,7 @@ layout: page
 title: Disclaimer
 permalink: /disclaimer/
 comments: false
-image: https://raw.githubusercontent.com/mwnsofficial/idtechannel/main/assets/images/logo.png
+image: assets/images/logo.png
 ---
 
 <!-- start post -->
