@@ -25,75 +25,75 @@ permalink: /files-mikrotik/
   <td>None</td>       
 </tr>
 <tr>
-  <td><a href="/mikrotik-arm-main.md/">ARM Main</a></td>
+  <td>ARM Main</td>
   <td>Mikrotik</td>
-  <td>7.8</td>
-  <td>7.9rc3</td>       
+  <td><a href="/mikrotik-arm-main/">7.8</a></td>
+  <td><a href="/mikrotik-arm-main-79rc3/">7.9rc3</a></td>       
 </tr>
 <tr>
-  <td><a href="/mikrotik-arm-extra/">ARM Extra</a></td>
+  <td>ARM Extra</td>
   <td>Mikrotik</td>
-  <td><a href="">7.8</a></td>
-  <td><a href="">7.9rc3</a></td>       
+  <td><a href="/mikrotik-arm-extra-7.8/">7.8</a></td>
+  <td><a href="/mikrotik-arm-extra-79rc3/">7.9rc3</a></td>       
 </tr>
 <tr>
-  <td><a href="/mikrotik-arm64-main/">ARM64 Main</a></td>
+  <td>ARM64 Main</td>
   <td>Mikrotik</td>
-  <td><a href="">7.8</a></td>
-  <td><a href="">7.9rc3</a></td>       
+  <td><a href="/mikrotik-arm64-main-7.8/">7.8</a></td>
+  <td><a href="/mikrotik-arm64-main-79rc3/">7.9rc3</a></td>       
 </tr>
 <tr>
-  <td><a href="/mikrotik-arm64-extra/">ARM64 Extra</a></td>
+  <td>ARM64 Extra</td>
   <td>Mikrotik</td>
-  <td><a href="">7.8</a></td>
-  <td><a href="">7.9rc3</a></td>       
+  <td><a href="/mikrotik-arm64-extra-7.8/">7.8</a></td>
+  <td><a href="/mikrotik-arm64-extra-79rc3/">7.9rc3</a></td>      
 </tr>
 <tr>
-  <td><a href="/mikrotik-mipsbe-main/">MIPSBE Main</a></td>
+  <td>MIPSBE Main</td>
   <td>Mikrotik</td>
-  <td><a href="">7.8</a></td>
-  <td><a href="">7.9rc3</a></td>       
+  <td><a href="/mikrotik-mipsbe-main-7.8/">7.8</a></td>
+  <td><a href="/mikrotik-mipsbe-main-79rc3/">7.9rc3</a></td>       
 </tr>
 <tr>
-  <td><a href="/mikrotik-mipsbe-extra/">MIPSBE Extra</a></td>
+  <td>MIPSBE Extra</td>
   <td>Mikrotik</td>
-  <td><a href="">7.8</a></td>
-  <td><a href="">7.9rc3</a></td>       
+  <td><a href="/mikrotik-mipsbe-extra-7.8/">7.8</a></td>
+  <td><a href="/mikrotik-mipsbe-extra-79rc3/">7.9rc3</a></td>       
 </tr>
 <tr>
-  <td><a href="/mikrotik-mmips-main/">MMIPS Main</a></td>
+  <td>MMIPS Main</td>
   <td>Mikrotik</td>
-  <td><a href="">7.8</a></td>
-  <td><a href="">7.9rc3</a></td>       
+  <td><a href="/mikrotik-mmips-main-7.8/">7.8</a></td>
+  <td><a href="/mikrotik-mmips-main-79rc3/">7.9rc3</a></td>       
 </tr>
 <tr>
-  <td><a href="/mikrotik-mmips-extra/">MMIPS Extra</a></td>
+  <td>MMIPS Extra</td>
   <td>Mikrotik</td>
-  <td><a href="">7.8</a></td>
-  <td><a href="">7.9rc3</a></td>       
+  <td><a href="/mikrotik-mmips-extra-7.8/">7.8</a></td>
+  <td><a href="/mikrotik-mmips-extra-79rc3/">7.9rc3</a></td>       
 </tr>
 <tr>
-  <td><a href="/mikrotik-smips-main/">SMIPS Main</a></td>
+  <td>SMIPS Main</td>
   <td>Mikrotik</td>
-  <td><a href="">7.8</a></td>
-  <td><a href="">7.9rc3</a></td>       
+  <td><a href="/mikrotik-smips-main-7.8/">7.8</a></td>
+  <td><a href="/mikrotik-smips-main-79rc3/">7.9rc3</a></td>       
 </tr>
 <tr>
-  <td><a href="/mikrotik-smips-extra/">SMIPS Extra</a></td>
+  <td>SMIPS Extra</td>
   <td>Mikrotik</td>
-  <td><a href="">7.8</a></td>
-  <td><a href="">7.9rc3</a></td>       
+  <td><a href="/mikrotik-smips-extra-7.8/">7.8</a></td>
+  <td><a href="/mikrotik-smips-extra-79rc3/">7.9rc3</a></td>       
 </tr>
 <tr>
-  <td><a href="/mikrotik-tile-main/">TILE Main</a></td>
+  <td>TILE Main</td>
   <td>Mikrotik</td>
-  <td><a href="">7.8</a></td>
-  <td><a href="">7.9rc3</a></td>       
+  <td><a href="/mikrotik-tile-main-7.8/">7.8</a></td>
+  <td><a href="/mikrotik-tile-main-79rc3/">7.9rc3</a></td>       
 </tr>
 <tr>
-  <td><a href="/mikrotik-tile-extra/">TILE Extra</a></td>
+  <td>TILE Extra</td>
   <td>Mikrotik</td>
-  <td><a href="">7.8</a></td>
-  <td><a href="">7.9rc3</a></td>       
+  <td><a href="/mikrotik-tile-extra-7.8/">7.8</a></td>
+  <td><a href="/mikrotik-tile-extra-79rc3/">7.9rc3</a></td>       
 </tr>
 </tbody>
