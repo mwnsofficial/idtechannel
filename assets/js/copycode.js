@@ -1,4 +1,4 @@
-const copyButtonLabel = "Salin";
+const copyButtonLabel = "Salin Code";
 
 // use a class selector if available
 let blocks = document.querySelectorAll("pre");
@@ -12,17 +12,10 @@ blocks.forEach((block) => {
     block.appendChild(button);
 
     button.addEventListener("click", async () => {
-      await copyCode(block);
+      await copyCode(block, button);
     });
   }
 });
-
-async function copyCode(block) {
-  let code = block.querySelector("code");
-  let text = code.innerText;
-
-  await navigator.clipboard.writeText(text);
-}
 
 async function copyCode(block, button) {
   let code = block.querySelector("code");
