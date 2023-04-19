@@ -104,13 +104,14 @@ gtag('config', '{{site.ganalytics}}');
                 <a class="nav-link px-3 {% if item.class %}{{item.class}}{% endif %}" href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
               </li>
               {% endfor %}
-            </ul>
+              <li class="nav-item">
+                {% include search.html %}
+              </li>
+             </ul>
            </div>
-          </div>
-         <div class="search">
-        </div>
-       </nav>
-      </div>  
+         </div>
+        </nav>
+       </div>  
 
     
 <!-- Container
