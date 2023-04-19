@@ -14,42 +14,70 @@ permalink: "/files/"
 </thead>
 <tbody>
   <tr>
-    <td><a href="">Openwrt</a></td>
+    <td><a href="/clash-openwrt/">Openwrt</a></td>
     <td>Clash</td>
     <td>V1</td>
     <td>None</td>
     <td>18-4-2023</td>       
   </tr>
   <tr>
-    <td><a href="">Android</a></td>
+    <td><a href="/clash-android/">Android</a></td>
     <td>Clash</td>
     <td>V1</td>
     <td>None</td>
     <td>18-4-2023</td>       
   </tr>
   <tr>
-    <td><a href="">Magisk</a></td>
+    <td><a href="/clash-magisk/">Magisk</a></td>
     <td>Clash</td>
     <td>V1</td>
     <td>None</td>
     <td>18-4-2023</td>       
   </tr>
   <tr>
-    <td><a href="">Termux</a></td>
+    <td><a href="/clash-termux/">Termux</a></td>
     <td>Clash</td>
     <td>V1</td>
     <td>None</td>
     <td>18-4-2023</td>       
   </tr>
   <tr>
-    <td><a href="">Windows</a></td>
+    <td><a href="/clash-windows/">Windows</a></td>
     <td>Clash</td>
     <td>V1</td>
     <td>None</td>
     <td>18-4-2023</td>       
   </tr>
   <tr>
-    <td><a href="">Openwrt</a></td>
+    <td><a href="/account/">Account</a></td>
+    <td>Clash</td>
+    <td>V1</td>
+    <td>None</td>
+    <td>20-4-2023</td>       
+  </tr>
+  <tr>
+    <td><a href="/proxy-group/">Proxy Group</a></td>
+    <td>Clash</td>
+    <td>V1</td>
+    <td>None</td>
+    <td>20-4-2023</td>       
+  </tr>
+  <tr>
+    <td><a href="/rule/">Rule</a></td>
+    <td>Clash</td>
+    <td>V1</td>
+    <td>None</td>
+    <td>20-4-2023</td>       
+  </tr>
+  <tr>
+    <td><a href="/script/">Script</a></td>
+    <td>Clash</td>
+    <td>V1</td>
+    <td>None</td>
+    <td>20-4-2023</td>       
+  </tr>
+  <tr>
+    <td><a href="/shunt/">Shunt</a></td>
     <td>Passwall</td>
     <td>V1</td>
     <td>None</td>
