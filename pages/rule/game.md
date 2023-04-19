@@ -27,7 +27,7 @@ Buat file baru di folder `rule_provider` dengan nama `rule-game.yaml`
 ```
 payload:
 
-  # > RULE BY CLASHMWNS.COM
+  # > RULE BY Id Tech Channel
   - "+.freefiremobile.com"
   - "+.appsflyer.com"
   - "+.freefiremobile.com"
