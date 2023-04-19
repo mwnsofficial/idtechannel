@@ -145,7 +145,7 @@ gtag('config', '{{site.ganalytics}}');
 <footer class="footer container text-center">  
 
   <!-- CREDITS BEGIN.-->
-  <!-- If you want to support my work, please donate to remove the credits. This helps me keep it up and running: https://www.wowthemes.net/donate/ -->
+  <!-- subscribe my channel -->
   <div class="credits mx-auto text-center mb-3">
     <a class="hover-opacity font-weight-bold" href="https://www.youtube.com/@idtechannel">
       <img src="{{site.baseurl}}/assets/images/credits.png" alt="powered by Id Tech Channel">
@@ -161,7 +161,7 @@ gtag('config', '{{site.ganalytics}}');
     {% endfor %}
     </ul>
     <div class="copyright small">
-       Copyright ©2018-2023 {{site.title}}. All rights reserved.
+       Copyright ©2018-<script>document.write(new Date().getFullYear())</script> <a href="{{site.baseurl}}">{{site.title}}</a>. All rights reserved.
     </div>
 </footer>
 {% include iklan-popup.html %}
