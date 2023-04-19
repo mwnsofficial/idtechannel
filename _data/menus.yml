@@ -13,6 +13,12 @@ topmenu:
 - title: Contact
   url: "contact/"
 
+- title: Privacy Policy
+  url: "privacy-policy/"
+
+- title: Disclaimer
+  url: "disclaimer/"
+
 - title: Files
   url: "files/"
 
