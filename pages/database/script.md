@@ -20,6 +20,18 @@ Pastikan anda sudah menambahkan semua di bawah ini pada config anda:
 
 [Rule Chatting](/chatting/)
 
+[Group Game](/group-game/)
+
+[Group Sosmed](/group-sosmed/)
+
+[Group Stream](/group-stream/)
+
+[Group Olshop](/group-olshop/)
+
+[Group Bank](/group-bank/)
+
+[Group Chatting](/group-chatting/)
+
 Jangan lupa juga script nya di bawah ini di salin dan tempelkan dalam config kalian:
 
 ```
