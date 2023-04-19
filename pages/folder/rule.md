@@ -1,7 +1,6 @@
-
 ---
-layout: page
-title: Rule
+title: rule
+layout: database
 permalink: "/rule/"
 ---
 <style type="text/css">
