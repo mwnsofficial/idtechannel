@@ -60,43 +60,13 @@ permalink: "/clash-openwrt/"
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7k2u"><span style="color:#FFF">File</span></td>
-    <td class="tg-7k2u"><span style="color:red">Offline</span></td>
-    <td class="tg-7k2u"><span><button onclick="download1('')" style="background:teal;color:white">Download</button></span></td>
-  </tr>
-  <tr>
-    <td class="tg-7k2u"><span style="color:#FFF">File</span></td>
-    <td class="tg-7k2u"><span style="color:red">Offline</span></td>
-    <td class="tg-7k2u"><span><button onclick="download2('')" style="background:teal;color:white">Download</button></span></td>
-  </tr>
-  <tr>
-    <td class="tg-7k2u"><span style="color:#FFF">File</span></td>
-    <td class="tg-7k2u"><span style="color:red">Offline</span></td>
-    <td class="tg-7k2u"><span><button onclick="download3('')" style="background:teal;color:white">Download</button></span></td>
-  </tr>
-  <tr>
-    <td class="tg-7k2u"><span style="color:#FFF">File</span></td>
-    <td class="tg-7k2u"><span style="color:red">Offline</span></td>
-    <td class="tg-7k2u"><span><button onclick="download4('')" style="background:teal;color:white">Download</button></span></td>
-  </tr>
-  <tr>
-    <td class="tg-7k2u"><span style="color:#FFF">File</span></td>
-    <td class="tg-7k2u"><span style="color:red">Offline</span></td>
-    <td class="tg-7k2u"><span><button onclick="download5('')" style="background:teal;color:white">Download</button></span></td>
-  </tr>
-  <tr>
-    <td class="tg-7k2u"><span style="color:#FFF">File</span></td>
-    <td class="tg-7k2u"><span style="color:red">Offline</span></td>
-    <td class="tg-7k2u"><span><button onclick="download6('')" style="background:teal;color:white">Download</button></span></td>
+    <td class="tg-7k2u"><span style="color:#FFF">idtech v1</span></td>
+    <td class="tg-7k2u"><span style="color:teal">Online</span></td>
+    <td class="tg-7k2u"><span><button onclick="download1('/idtech-v1/')" style="background:teal;color:white">Download</button></span></td>
   </tr>
 </tbody>
 </table>
 </center>
 <script>
 function download1 (url) {location.href = url;}
-function download2 (url) {location.href = url;}
-function download3 (url) {location.href = url;}
-function download4 (url) {location.href = url;}
-function download5 (url) {location.href = url;}
-function download6 (url) {location.href = url;}
 </script>
