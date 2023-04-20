@@ -52,28 +52,28 @@ permalink: "/files/"
     <td><a href="/account/">Account</a></td>
     <td>Clash</td>
     <td>Ready</td>
-    <td>1</td>
+    <td>1 file</td>
     <td>20-4-2023</td>       
   </tr>
   <tr>
     <td><a href="/proxy-group/">Proxy Group</a></td>
     <td>Clash</td>
     <td>Ready</td>
-    <td>6</td>
+    <td>6 file</td>
     <td>20-4-2023</td>       
   </tr>
   <tr>
     <td><a href="/rule/">Rule</a></td>
     <td>Clash</td>
     <td>Ready</td>
-    <td>6</td>
+    <td>6 file</td>
     <td>20-4-2023</td>       
   </tr>
   <tr>
     <td><a href="/script/">Script</a></td>
     <td>Clash</td>
     <td>Ready</td>
-    <td>1</td>
+    <td>1 file</td>
     <td>20-4-2023</td>       
   </tr>
   <tr>
@@ -101,14 +101,14 @@ permalink: "/files/"
     <td><a href="/files-mikrotik/">Software</a></td>
     <td>Mikrotik</td>
     <td>Ready</td>
-    <td>None</td>
+    <td>14 file</td>
     <td>18-4-2023</td>       
   </tr>
   <tr>
     <td><a href="/aplikasi/">Aplikasi</a></td>
     <td>Android</td>
     <td>Ready</td>
-    <td>1</td>
+    <td>1 file</td>
     <td>18-4-2023</td>       
   </tr>
   <tr>
