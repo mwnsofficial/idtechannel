@@ -105,10 +105,10 @@ permalink: "/files/"
     <td>18-4-2023</td>       
   </tr>
   <tr>
-    <td><a href="">Aplikasi</a></td>
+    <td><a href="/aplikasi/">Aplikasi</a></td>
     <td>Android</td>
-    <td>No</td>
-    <td>None</td>
+    <td>Ready</td>
+    <td>1</td>
     <td>18-4-2023</td>       
   </tr>
   <tr>
