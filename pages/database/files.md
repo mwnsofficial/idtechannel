@@ -51,8 +51,8 @@ permalink: "/files/"
   <tr>
     <td><a href="/clash-ipk/">Clash IPK</a></td>
     <td>Clash</td>
-    <td>No</td>
-    <td>None</td>
+    <td>Ready</td>
+    <td>28 File</td>
     <td>22-4-2023</td>       
   </tr>
   <tr>
