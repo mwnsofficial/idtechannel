@@ -204,4 +204,31 @@ permalink: "/clash-ipk/"
 </center>
 <script>
 function download1 (url) {location.href = url;}
+function download2 (url) {location.href = url;}
+function download3 (url) {location.href = url;}
+function download4 (url) {location.href = url;}
+function download5 (url) {location.href = url;}
+function download6 (url) {location.href = url;}
+function download7 (url) {location.href = url;}
+function download8 (url) {location.href = url;}
+function download9 (url) {location.href = url;}
+function download10 (url) {location.href = url;}
+function download11 (url) {location.href = url;}
+function download12 (url) {location.href = url;}
+function download13 (url) {location.href = url;}
+function download14 (url) {location.href = url;}
+function download15 (url) {location.href = url;}
+function download16 (url) {location.href = url;}
+function download17 (url) {location.href = url;}
+function download18 (url) {location.href = url;}
+function download19 (url) {location.href = url;}
+function download20 (url) {location.href = url;}
+function download21 (url) {location.href = url;}
+function download22 (url) {location.href = url;}
+function download23 (url) {location.href = url;}
+function download24 (url) {location.href = url;}
+function download25 (url) {location.href = url;}
+function download26 (url) {location.href = url;}
+function download27 (url) {location.href = url;}
+function download28 (url) {location.href = url;}
 </script>
