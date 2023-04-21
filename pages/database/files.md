@@ -16,8 +16,8 @@ permalink: "/files/"
   <tr>
     <td><a href="/clash-openwrt/">Openwrt</a></td>
     <td>Clash</td>
-    <td>No</td>
-    <td>None</td>
+    <td>Ready</td>
+    <td>1 File</td>
     <td>18-4-2023</td>       
   </tr>
   <tr>
