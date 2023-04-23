@@ -3,7 +3,7 @@ layout: post
 title:  "Redir Host dan Fake IP"
 author: Muhammad Yusuf
 categories: [ clash ]
-image: assets/images/4.jpg
+image: assets/images/2.jpg
 youtubeid: 
 ---
 Saya akan membahas soal **Redir Host** dan **Fake IP**.
