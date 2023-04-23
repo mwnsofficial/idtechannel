@@ -3,7 +3,7 @@ layout: post
 title: "Clash Tun Mode 2"
 author: Muhammad Yusuf
 categories: [ clash ]
-image: assets/images/6.jpg
+image: assets/images/7.jpg
 ---
 Perkenalkan mode Clash TUN 2
 
