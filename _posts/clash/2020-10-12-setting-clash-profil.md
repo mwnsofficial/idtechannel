@@ -3,7 +3,7 @@ layout: post
 title:  "Setting Clash Profil"
 author: Muhammad Yusuf
 categories: [ clash ]
-image: assets/images/5.jpg
+image: assets/images/8.jpg
 ---
 Opsi profil membantu inti bentrokan memperluas operasi yang terkait dengan operasi berikut
 
