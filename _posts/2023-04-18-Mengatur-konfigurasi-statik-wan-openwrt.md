@@ -2,7 +2,7 @@
 layout: post
 title: "Mengatur konfigurasi statik wan openwrt"
 categories: [ openwrt ]
-image: assets/images/1.jpg
+image: assets/images/6.jpg
 youtubeid: 
 ---
 Banyak yang sering mengalami kegagalan koneksi baik di jalur koneksi lan maupun di jalur koneksi wireless.
