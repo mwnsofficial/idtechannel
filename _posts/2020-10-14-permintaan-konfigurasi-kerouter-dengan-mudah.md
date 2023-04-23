@@ -2,7 +2,7 @@
 layout: post
 title: "Permintaan konfigurasi ke router dengan mudah"
 categories: [ clash ]
-image: assets/images/1.jpg
+image: assets/images/5.jpg
 ---
 ## Apa itu rule?
 
