@@ -2,7 +2,7 @@
 layout: post
 title:  "Konfigurasikan DNS"
 categories: [ clash ]
-image: assets/images/1.jpg
+image: assets/images/4.jpg
 ---
 ## pengaturan dengan cara yang benar
 
